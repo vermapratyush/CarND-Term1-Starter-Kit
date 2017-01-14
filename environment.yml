@@ -19,5 +19,5 @@ dependencies:
     - pandas
     - pip:
         - moviepy
-        - tensorflow
+        - tensorflow-gpu
         - git+https://github.com/fchollet/keras.git
